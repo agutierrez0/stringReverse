@@ -1,0 +1,14 @@
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\stringReverse.deps.json
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\stringReverse.runtimeconfig.json
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\stringReverse.runtimeconfig.dev.json
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\stringReverse.dll
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\stringReverse.pdb
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.csprojAssemblyReference.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.csproj.CoreCompileInputs.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.RazorAssemblyInfo.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.RazorAssemblyInfo.cs
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.AssemblyInfoInputs.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.AssemblyInfo.cs
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.RazorTargetAssemblyInfo.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.dll
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\stringReverse.pdb

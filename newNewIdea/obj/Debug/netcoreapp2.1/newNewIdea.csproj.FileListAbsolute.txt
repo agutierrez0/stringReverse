@@ -1,0 +1,14 @@
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\newNewIdea.deps.json
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\newNewIdea.runtimeconfig.json
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\newNewIdea.runtimeconfig.dev.json
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\newNewIdea.dll
+D:\code\Idea\newNewIdea\bin\Debug\netcoreapp2.1\newNewIdea.pdb
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.csprojAssemblyReference.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.csproj.CoreCompileInputs.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.RazorAssemblyInfo.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.RazorAssemblyInfo.cs
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.AssemblyInfoInputs.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.AssemblyInfo.cs
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.RazorTargetAssemblyInfo.cache
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.dll
+D:\code\Idea\newNewIdea\obj\Debug\netcoreapp2.1\newNewIdea.pdb
